@@ -10,9 +10,16 @@
 - https://metamask.io/
 - 创建钱包
 - 如图设置夸克主网信息
-- [image](https://user-images.githubusercontent.com/77677195/123578976-8144b100-d809-11eb-9c00-5309600e3a77.png)
+-![image](https://user-images.githubusercontent.com/77677195/123578976-8144b100-d809-11eb-9c00-5309600e3a77.png)
 ## 安装
 使用yarn安装更为有效<br />
 `yarn install`
 ## 运行
 `yarn start`
+## 试玩
+- 1创建属于自己僵尸，起一个响亮的名字
+- ![image](https://user-images.githubusercontent.com/77677195/123579236-1ba4f480-d80a-11eb-93f9-63343aa4ca5e.png)
+
+-2 支付矿工费领取自己僵尸
+- ![image](https://user-images.githubusercontent.com/77677195/123579304-38d9c300-d80a-11eb-8066-40b066f464cf.png)
+- 
