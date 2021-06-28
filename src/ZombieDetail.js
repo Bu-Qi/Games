@@ -178,7 +178,7 @@ class Zombiedetail extends Component {
                             return(
                                 <div>
                                     <div className='zombieInput'>
-                                        售价：{that.state.shopInfo.price} ether
+                                        售价：{that.state.shopInfo.price} QKI
                                     </div>
                                     <div>
                                         <button className="pay-btn pay-btn-last" onClick={that.buyShopZombie}>
