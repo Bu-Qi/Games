@@ -6,8 +6,11 @@
 - 无论是谁，无论在何地运行的游戏都可以连接到相同的数据
 
 
-
-
+## 首先下载谷歌浏览器和metamask钱包
+- https://metamask.io/
+- 创建钱包
+- 如图设置夸克主网信息
+- [image](https://user-images.githubusercontent.com/77677195/123578976-8144b100-d809-11eb-9c00-5309600e3a77.png)
 ## 安装
 使用yarn安装更为有效<br />
 `yarn install`
