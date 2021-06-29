@@ -10,7 +10,6 @@ class ContractAdmin extends Component {
             ContractName:'',
             ContractSymbol:'',
             ContractBalance:'',
-            attackVictoryProbability:70,
             levelUpFee:0,
             minPrice:0,
             tax:0,
